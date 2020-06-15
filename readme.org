@@ -1,21 +1,21 @@
 #+TITLE: Python in the Enterprise - Summer 2020 project list
 * Project: Kryptonite
-** Repo:https://github.com/maniekb/PitE-Project/blob/master/README.md
+** Repo:https://github.com/maniekb/PitE-Project
 
 * Project: EatGuesser
-** Repo:https://github.com/kamilsudol/EatGuesser/blob/master/readme.md
+** Repo:https://github.com/kamilsudol/EatGuesser
 
 * Project: Pampuch
-** Repo: https://github.com/theYiome/pampuch/blob/master/README.md
+** Repo: https://github.com/theYiome/pampuch
 
 * Project: CovidLocalizations
-** Repo: https://github.com/BlackDilvish/Movielity_Project/blob/master/README.md
+** Repo: https://github.com/BlackDilvish/Movielity_Project
 
 * Project: Arena-of-Heroes
-** Repo:https://github.com/MichalKacprzak99/Arena-of-Heroes/blob/master/README.md
+** Repo:https://github.com/MichalKacprzak99/Arena-of-Heroes
 
 * Project: Swarmball.ai
-** Repo: https://github.com/Heecatee/Swarmball/blob/master/README.md
+** Repo: https://github.com/Heecatee/Swarmball
 
 * Project: Mood
 ** Repo: https://github.com/paulinajewulska/MOOD
@@ -24,13 +24,13 @@
 ** Repo: https://github.com/KrystianKosek/Crypto_Price_Predictor
 
 * Project: Jobaid
-** Repo: https://github.com/Fadikk367/Jobaid/blob/master/README.md
+** Repo: https://github.com/Fadikk367/Jobaid
 
 * Project: PyChord
-** Repo: https://github.com/zuczeks/PyChord/blob/master/README.md
+** Repo: https://github.com/zuczeks/PyChord
 
 * Project: iGarden
 ** Repo:  https://github.com/grzesiakm/iGarden
 
 * Project: Fiszkily
-** Repo: https://github.com/MichalLeszczynski/Fiszkily/blob/master/README.md
+** Repo: https://github.com/MichalLeszczynski/Fiszkily
