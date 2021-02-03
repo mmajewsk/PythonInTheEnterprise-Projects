@@ -35,33 +35,51 @@
 * Semester: Summer 2020
 ** Project: Kryptonite
    Repo:https://github.com/maniekb/PitE-Project
+   
+   Online app for finding profit in cryptocurrency exchange rates
 
 ** Project: EatGuesser
   Repo:https://github.com/kamilsudol/EatGuesser
+  
+  Search engine for recipes
 
 ** Project: Pampuch
    Repo: https://github.com/theYiome/pampuch
+   
+   App for cataloging/categorisation of images for machine learning datasets
 
 ** Project: CovidLocalizations
   Repo: https://github.com/BlackDilvish/Movielity_Project
+  
+  Covid risk tracking based on google history localisation
 
 ** Project: Arena-of-Heroes
   Repo:https://github.com/MichalKacprzak99/Arena-of-Heroes
+  
+  Desktop game app
 
 ** Project: Swarmball.ai
   Repo: https://github.com/Heecatee/Swarmball
+  
+  Reinforcement learning environment and network for swarm agent behaviour.
 
 ** Project: Mood
   Repo: https://github.com/paulinajewulska/MOOD
 
 ** Project: Crypto_Price_Predictor
   Repo: https://github.com/KrystianKosek/Crypto_Price_Predictor
+  
+  Analisys and predicton of cryptocurrencies price with machione learning.
 
 ** Project: Jobaid
   Repo: https://github.com/Fadikk367/Jobaid
+  
+  Job adverts search engine, and salary estimator, created with machine learning.
 
 ** Project: PyChord
   Repo: https://github.com/zuczeks/PyChord
+  
+  Automatic chord progression selection for music composing.
 
 ** Project: iGarden
   Repo:  https://github.com/grzesiakm/iGarden
