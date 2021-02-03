@@ -1,17 +1,17 @@
-Semester*: Winter 2020
+* Semester: Winter 2020
 
-* Project: Coolambury
+** Project: Coolambury
   Link: https://github.com/michalloska/Coolambury
-  
   Pictionary-like gam with desktop app (pyqt), and AI (a bot that uses neural networks to guess).
    
-* Project: cookly
-** https://github.com/cookly-PiTE/cookly
+** Project: cookly
+  https://github.com/cookly-PiTE/cookly
   Cooking recipies management. Made with django and mongo.
   
-* Music Karaoke Django
-** An online karaoke app, which automatically rates your performance with numpy.
-https://github.com/Peter2221/Music-Karaoke-DJango
+** Music Karaoke Django
+  https://github.com/Peter2221/Music-Karaoke-DJango
+  An online karaoke app, which automatically rates your performance with numpy.
+
   
 
 
