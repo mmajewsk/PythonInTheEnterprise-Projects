@@ -1,20 +1,35 @@
 * Semester: Winter 2020
 
-** Project: Coolambury
+** Coolambury
   Link: https://github.com/michalloska/Coolambury
+  
   Pictionary-like gam with desktop app (pyqt), and AI (a bot that uses neural networks to guess).
    
-** Project: cookly
+** Cookly
   https://github.com/cookly-PiTE/cookly
+  
   Cooking recipies management. Made with django and mongo.
   
 ** Music Karaoke Django
   https://github.com/Peter2221/Music-Karaoke-DJango
+  
   An online karaoke app, which automatically rates your performance with numpy.
 
+** Cookit
+  https://github.com/PiotrKolecki/cookitpiteproject
+  Oline cooking cooking books
+
+** Walk for the dog
+  https://github.com/Equilibrium23/Walk-For-The-Dog
   
+  Django app for matching dog owners with volunteers for dog walkers, with automatic dog breed recognition using neural networks.
 
-
+** Kitchen
+  https://github.com/mdmkl6/ProjectKitchen
+  
+  Project for managing resources in kitchen and making shopping lists, made with django.
+  
+  
 
 * Semester: Summer 2020
 ** Project: Kryptonite
