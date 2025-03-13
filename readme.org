@@ -86,3 +86,14 @@
 
 ** Project: Fiszkily
   Repo: https://github.com/MichalLeszczynski/Fiszkily
+
+* Winter 2024
+
+- https://github.com/radek203/WFiIS-PITE-2024.2025-Gr1
+- https://github.com/Arhur1505/PitE_project
+- https://github.com/matadamczyk/PyBet 
+- https://github.com/juliaprzezdzik/Python_Uno_Game
+- https://github.com/piotr-zeberek-agh/OptimizationSuite
+- https://github.com/rlusio/Football-stats-tracker
+- https://github.com/KeyJayY/python_game_with_ML_bots
+- https://github.com/Andrzej-Swietek/Security-System
