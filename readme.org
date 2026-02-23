@@ -1,99 +1,44 @@
-* Semester: Winter 2020
+## Winter 2024
 
-** Coolambury
-  Link: https://github.com/michalloska/Coolambury
-  
-  Pictionary-like gam with desktop app (pyqt), and AI (a bot that uses neural networks to guess).
-   
-** Cookly
-  https://github.com/cookly-PiTE/cookly
-  
-  Cooking recipies management. Made with django and mongo.
-  
-** Music Karaoke Django
-  https://github.com/Peter2221/Music-Karaoke-DJango
-  
-  An online karaoke app, which automatically rates your performance with numpy.
+| Project | Description | Repository |
+|---|---|---|
+| WFiIS-PITE-2024.2025-Gr1 | Student project (details in repo) | https://github.com/radek203/WFiIS-PITE-2024.2025-Gr1 |
+| PitE_project | Student project (details in repo) | https://github.com/Arhur1505/PitE_project |
+| PyBet | Python betting-related project | https://github.com/matadamczyk/PyBet |
+| Python Uno Game | UNO card game implemented in Python | https://github.com/juliaprzezdzik/Python_Uno_Game |
+| OptimizationSuite | Optimization algorithms suite | https://github.com/piotr-zeberek-agh/OptimizationSuite |
+| Football Stats Tracker | Football statistics tracking app | https://github.com/rlusio/Football-stats-tracker |
+| Python Game with ML Bots | Game with machine-learning-based bots | https://github.com/KeyJayY/python_game_with_ML_bots |
+| Security System | Security monitoring system | https://github.com/Andrzej-Swietek/Security-System |
 
-** Cookit
-  https://github.com/PiotrKolecki/cookitpiteproject
-  
-  Oline cooking cooking books
+---
 
-** Walk for the dog
-  https://github.com/Equilibrium23/Walk-For-The-Dog
-  
-  Django app for matching dog owners with volunteers for dog walkers, with automatic dog breed recognition using neural networks.
+## Summer 2020
 
-** Kitchen
-  https://github.com/mdmkl6/ProjectKitchen
-  
-  Project for managing resources in kitchen and making shopping lists, made with django.
-  
-  
+| Project | Description | Repository |
+|---|---|---|
+| Kryptonite | Cryptocurrency arbitrage/profit-finding app | https://github.com/maniekb/PitE-Project |
+| EatGuesser | Recipe search engine | https://github.com/kamilsudol/EatGuesser |
+| Pampuch | Image cataloging for ML datasets | https://github.com/theYiome/pampuch |
+| CovidLocalizations | COVID risk tracking via Google location history | https://github.com/BlackDilvish/Movielity_Project |
+| Arena of Heroes | Desktop game application | https://github.com/MichalKacprzak99/Arena-of-Heroes |
+| Swarmball.ai | Reinforcement learning for swarm agents | https://github.com/Heecatee/Swarmball |
+| Mood | Mood-related machine learning project | https://github.com/paulinajewulska/MOOD |
+| Crypto Price Predictor | ML-based cryptocurrency price prediction | https://github.com/KrystianKosek/Crypto_Price_Predictor |
+| Jobaid | Job search engine and salary estimator (ML) | https://github.com/Fadikk367/Jobaid |
+| PyChord | Automatic chord progression generator | https://github.com/zuczeks/PyChord |
+| iGarden | Gardening management application | https://github.com/grzesiakm/iGarden |
+| Fiszkily | Flashcard-based learning app | https://github.com/MichalLeszczynski/Fiszkily |
 
-* Semester: Summer 2020
-** Project: Kryptonite
-   Repo:https://github.com/maniekb/PitE-Project
-   
-   Online app for finding profit in cryptocurrency exchange rates
+---
 
-** Project: EatGuesser
-  Repo:https://github.com/kamilsudol/EatGuesser
-  
-  Search engine for recipes
+## Winter 2020
 
-** Project: Pampuch
-   Repo: https://github.com/theYiome/pampuch
-   
-   App for cataloging/categorisation of images for machine learning datasets
-
-** Project: CovidLocalizations
-  Repo: https://github.com/BlackDilvish/Movielity_Project
-  
-  Covid risk tracking based on google history localisation
-
-** Project: Arena-of-Heroes
-  Repo:https://github.com/MichalKacprzak99/Arena-of-Heroes
-  
-  Desktop game app
-
-** Project: Swarmball.ai
-  Repo: https://github.com/Heecatee/Swarmball
-  
-  Reinforcement learning environment and network for swarm agent behaviour.
-
-** Project: Mood
-  Repo: https://github.com/paulinajewulska/MOOD
-
-** Project: Crypto_Price_Predictor
-  Repo: https://github.com/KrystianKosek/Crypto_Price_Predictor
-  
-  Analisys and predicton of cryptocurrencies price with machione learning.
-
-** Project: Jobaid
-  Repo: https://github.com/Fadikk367/Jobaid
-  
-  Job adverts search engine, and salary estimator, created with machine learning.
-
-** Project: PyChord
-  Repo: https://github.com/zuczeks/PyChord
-  
-  Automatic chord progression selection for music composing.
-
-** Project: iGarden
-  Repo:  https://github.com/grzesiakm/iGarden
-
-** Project: Fiszkily
-  Repo: https://github.com/MichalLeszczynski/Fiszkily
-
-* Winter 2024
-
-- https://github.com/radek203/WFiIS-PITE-2024.2025-Gr1
-- https://github.com/Arhur1505/PitE_project
-- https://github.com/matadamczyk/PyBet 
-- https://github.com/juliaprzezdzik/Python_Uno_Game
-- https://github.com/piotr-zeberek-agh/OptimizationSuite
-- https://github.com/rlusio/Football-stats-tracker
-- https://github.com/KeyJayY/python_game_with_ML_bots
-- https://github.com/Andrzej-Swietek/Security-System
+| Project | Description | Repository |
+|---|---|---|
+| Coolambury | Pictionary-like game with PyQt and NN-based bot | https://github.com/michalloska/Coolambury |
+| Cookly | Recipe management system (Django + MongoDB) | https://github.com/cookly-PiTE/cookly |
+| Music Karaoke Django | Online karaoke with automatic performance rating | https://github.com/Peter2221/Music-Karaoke-DJango |
+| Cookit | Online cooking books | https://github.com/PiotrKolecki/cookitpiteproject |
+| Walk for the Dog | Dog owner–walker matching with breed recognition (NN) | https://github.com/Equilibrium23/Walk-For-The-Dog |
+| Kitchen | Kitchen resource & shopping list manager (Django) | https://github.com/mdmkl6/ProjectKitchen |
